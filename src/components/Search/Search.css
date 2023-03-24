@@ -1,0 +1,16 @@
+.form-control{
+	border-radius: 7px;
+	border: 1.5px solid #E3E6ED;
+
+}
+input.form-control:focus{
+	box-shadow: outset;
+	border: 1.5px solid #c9c8c9;
+	background-color: #F7F8FD;
+	letter-spacing: 1px;
+}
+
+
+.search{
+     margin-top: 40px;
+}
